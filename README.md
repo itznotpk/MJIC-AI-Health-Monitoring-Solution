@@ -2,6 +2,8 @@
 
 **AI-Powered Diabetes Risk Assessment & Health Monitoring Kiosk with Clinical Report Analysis**
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Flask](https://img.shields.io/badge/Flask-3.x-green) ![TensorFlow](https://img.shields.io/badge/TensorFlow-Latest-orange) ![Ollama](https://img.shields.io/badge/Ollama-LLM-red) ![Pandas](https://img.shields.io/badge/Pandas-Data-purple)
+
 ---
 
 ## Table of Contents
